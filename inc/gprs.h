@@ -1,0 +1,2 @@
+int GPRSConnect();
+int GPRSDesconnect();

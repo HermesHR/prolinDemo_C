@@ -1,0 +1,31 @@
+#include <osal.h>
+#include <xui.h>
+void CoresInit();
+
+XuiColor COLOR_GREEN;
+XuiColor COLOR_BLUE;
+XuiColor COLOR_BLACK;
+XuiColor COLOR_WHITE;
+XuiColor COLOR_YELLOW;
+XuiColor COLOR_YELLOW_ALPHA;
+XuiColor COLOR_YELLOW_ALPHA2;
+XuiColor COLOR_CYAN;
+XuiColor COLOR_PINK;
+XuiColor COLOR_WHITE_H;
+XuiColor COLOR_YELLOW_H;
+XuiColor COLOR_VIOLET;
+XuiColor COLOR_GRAY;
+XuiColor COLOR_GRAY_LOW;
+XuiColor COLOR_GRAY_ALPHA;
+XuiColor COLOR_GRAY_BORDER;
+XuiColor COLOR_KHAKI;
+XuiColor COLOR_INIT;
+XuiColor COLOR_RED;
+XuiColor COLOR_RED_ALPHA;
+XuiColor colorTitleBg;
+XuiColor COLOR_GREEN_LIGHT;
+XuiColor COLOR_TRANSPARENT;
+XuiColor COLOR_TESTE;
+XuiFont *font;
+XuiFont *fontClock;
+

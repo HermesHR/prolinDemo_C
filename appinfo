@@ -1,0 +1,8 @@
+[app]
+id=MAINAPP
+name=DemoHR
+bin=DemoHR
+artwork=
+desc=PAX POS Application
+vender=PAX
+version=2.0
